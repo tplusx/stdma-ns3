@@ -1,4 +1,6 @@
 NS-3 STDMA: Self-organizing TDMA implementation for NS-3
+
+
 ========================================================
 
 This is an implementation of the protocol Self-Organizing TDMA (STDMA) in 
